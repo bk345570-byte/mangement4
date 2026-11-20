@@ -1,1 +1,5 @@
-# mangement4
+#include<stdio.>
+main()
+{
+printf("hello world");
+}
